@@ -26,7 +26,7 @@
             bindings = <&kp TAB>;
         };
 
-        ctr {
+        ctr1 {
             bindings = <&kp LCTRL>;
             key-positions = <14 13>;
         };
