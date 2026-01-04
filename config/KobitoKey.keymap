@@ -27,7 +27,7 @@
 
         tb {
             bindings = <&kp TAB>;
-            key-positions = <14 13>;
+            key-positions = <4 3>;
         };
     };
 
